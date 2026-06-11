@@ -3278,7 +3278,7 @@ do
 
 			local Window = {
 				Name = Data.Name or Data.name or "Bronx Dupe",
-				Logo = Data.Logo or Data.logo or "121644323941494",
+				Logo = Data.Logo or Data.logo or "",
 
 				Pages = {},
 				Items = {},
